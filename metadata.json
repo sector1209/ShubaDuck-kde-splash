@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "sector1209"
+            }
+        ],
+        "Id": "HeyYaDuck",
+        "Name": "HeyYaDuck",
+        "Description": "Wake up your pc with Hey Ya Duck",
+        "License": "GPLv3",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/LookAndFeel"
+}
+

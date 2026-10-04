@@ -9,7 +9,7 @@
         "Name": "HeyYaDuck",
         "Description": "Wake up your pc with Hey Ya Duck",
         "License": "GPLv3",
-        "Version": "1.0"
+        "Version": "1.0.1"
     },
     "KPackageStructure": "Plasma/LookAndFeel"
 }

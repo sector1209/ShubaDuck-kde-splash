@@ -11,7 +11,7 @@ Rectangle {
         anchors.centerIn: parent
         width: 600
         height: 600
-        source: "images/HeyYaDuck.gif"
+        source: "images/ShubaDuck.gif"
         playing: true
         fillMode: Image.PreserveAspectFit
     }

@@ -5,12 +5,11 @@
                 "Name": "sector1209"
             }
         ],
-        "Id": "HeyYaDuck",
-        "Name": "HeyYaDuck",
-        "Description": "Wake up your pc with Hey Ya Duck",
+        "Id": "sector1209.ShubaDuck",
+        "Name": "Shuba Duck",
+        "Description": "Wake up your pc with Shuba Duck",
         "License": "GPLv3",
         "Version": "1.0.1"
     },
     "KPackageStructure": "Plasma/LookAndFeel"
 }
-

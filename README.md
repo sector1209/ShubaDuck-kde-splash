@@ -75,6 +75,6 @@ kpackagetool6 --type Plasma/LookAndFeel --remove sector1209.ShubaDuck
 
 ## License
 
-The code in this repository is licensed under the GPL-3.0-or-later.
+The code in this repository is licensed under the [GPL-3.0-or-later](LICENSE).
 The animation (`ShubaDuck.gif`) is the work of [@KS_wktk](https://x.com/KS_wktk)
 and is not covered by this license.

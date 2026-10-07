@@ -9,7 +9,7 @@
         "Name": "Shuba Duck",
         "Description": "Wake up your pc with Shuba Duck",
         "Website": "https://github.com/sector1209/ShubaDuck-kde-splash",
-        "License": "GPLv3",
+        "License": "GPL-3.0-or-later",
         "Version": "1.0.1"
     },
     "KPackageStructure": "Plasma/LookAndFeel"
